@@ -4,7 +4,7 @@ Hi, I'm Bennett! I'm a software developer from Germany 🇩🇪 developing web-a
 
 Some interesting projects I'm working on:
 - [Skip Silence](https://chrome.google.com/webstore/detail/skip-silence/fhdmkhbefcbhakffdihhceaklaigdllh) ([Source](https://github.com/vantezzen/skip-silence)): A browser extension that skips silent parts of a video
-- [blymp.io](https://blymp.io) ([Source][https://github.com/vantezzen/blymp-io]): Transfer files in your browser using Peer-to-peer technologies
+- [blymp.io](https://blymp.io) ([Source](https://github.com/vantezzen/blymp-io)): Transfer files in your browser using Peer-to-peer technologies
 - [minimalpedia](https://minimalpedia.vantezzen.io/) ([Source](https://github.com/vantezzen/minimalpedia)): A minimalistic frontend for Wikipedia using React
 - [Ferdi](https://getferdi.com) ([Source](https://github.com/getferdi/ferdi)): An app for managing all your messaging services
 
