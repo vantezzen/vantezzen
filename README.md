@@ -8,6 +8,10 @@ Some interesting projects I'm working on:
 - [minimalpedia](https://minimalpedia.vantezzen.io/) ([Source](https://github.com/vantezzen/minimalpedia)): A minimalistic frontend for Wikipedia using React
 - [Ferdi](https://getferdi.com) ([Source](https://github.com/getferdi/ferdi)): An app for managing all your messaging services
 
+What I am currently spending my time on:
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 Find me on the web 🌍:
 - You can find my full portfolio on <https://vantezzen.io/>
 - You can find me on [Twitter](https://twitter.com/vantezzen)
