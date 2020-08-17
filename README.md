@@ -12,10 +12,10 @@ Hi, I'm Bennett! I'm a software developer from Germany developing web-apps and o
 <!--START_SECTION:waka-->
 ```text
 PHP              4 hrs 20 mins   ██████░░░░░░░░░░░░░░░░░░░   24.14 % 
-JSX              3 hrs 55 mins   █████░░░░░░░░░░░░░░░░░░░░   21.85 % 
-JavaScript       3 hrs 45 mins   █████░░░░░░░░░░░░░░░░░░░░   20.88 % 
-Blade Template   1 hr 54 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   10.57 % 
-Other            1 hr 8 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   06.39 %
+JSX              3 hrs 55 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.85 % 
+JavaScript       3 hrs 45 mins   █████▒░░░░░░░░░░░░░░░░░░░   20.88 % 
+Blade Template   1 hr 54 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.57 % 
+Other            1 hr 8 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.39 % 
 ```
 <!--END_SECTION:waka-->
 
