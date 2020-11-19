@@ -38,12 +38,13 @@ Other            1 hr 8 mins     █▓░░░░░░░░░░░░░�
 <br />
 <br />
 
-![Stats](https://github-readme-stats.vercel.app/api?username=vantezzen)
-
-
 ### 🌍 Find me on the web:
 - You can find my full portfolio on <https://vantezzen.io/>
 - You can find me on [Twitter](https://twitter.com/vantezzen)
+
+<a href="https://www.buymeacoffee.com/vantezzen" target="_blank">
+  <img src="img/bmc.png" alt="Buy Me A Coffee" width="150">
+</a>
 
 <!--
 **vantezzen/vantezzen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
