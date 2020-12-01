@@ -1,4 +1,4 @@
-## Hi there 👋
+![Hi there 👋](img/hero.svg)
 
 Hi, I'm Bennett! I'm a software developer from Germany developing web-apps and other web-based projects. I open-source a lot of my software so you can see it here on GitHub :octocat:.
 
