@@ -8,17 +8,6 @@ Hi, I'm Bennett! I'm a software developer from Germany developing web-apps and o
 - [minimalpedia](https://minimalpedia.vantezzen.io/) ([Source](https://github.com/vantezzen/minimalpedia)): A minimalistic frontend for Wikipedia using React
 - [Ferdi](https://getferdi.com) ([Source](https://github.com/getferdi/ferdi)): An app for managing all your messaging services
 
-### 👨🏼‍💻 What I am currently spending my time on:
-<!--START_SECTION:waka-->
-```text
-TypeScript       4 hrs 39 mins   ██████████████▒░░░░░░░░░░   57.20 % 
-JavaScript       1 hr 16 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.65 % 
-C#               27 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.53 % 
-Blade Template   26 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.37 % 
-Other            21 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 % 
-```
-<!--END_SECTION:waka-->
-
 ### 🛠 Some tools and languages I've been using lately:
 
 <img align="left" alt="Visual Studio Code" width="26px" style="margin-right:20px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
