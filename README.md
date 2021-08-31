@@ -33,7 +33,13 @@ Hi, I'm Bennett! I'm a software developer from Germany developing web-apps and o
 
 <a href="https://www.buymeacoffee.com/vantezzen" target="_blank">
   <img src="img/bmc.png" alt="Buy Me A Coffee" width="150">
-</a>
+</a
+  
+<img
+  src="https://queue.simpleanalyticscdn.com/noscript.gif?hostname=github.analytics.vantezzen.io"
+  referrerpolicy="no-referrer-when-downgrade"
+  alt=""
+/>
 
 <!--
 **vantezzen/vantezzen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
