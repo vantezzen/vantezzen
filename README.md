@@ -2,12 +2,6 @@
 
 Hi, I'm Bennett! I'm a software developer from Germany developing web-apps and other web-based projects. I open-source a lot of my software so you can see it here on GitHub :octocat:.
 
-### 🚀 Some interesting open-source projects I'm working on:
-- [Skip Silence](https://chrome.google.com/webstore/detail/skip-silence/fhdmkhbefcbhakffdihhceaklaigdllh) ([Source](https://github.com/vantezzen/skip-silence)): A browser extension that skips silent parts of a video
-- [blymp.io](https://blymp.io) ([Source](https://github.com/vantezzen/blymp-io)): Transfer files in your browser using Peer-to-peer technologies
-- [minimalpedia](https://minimalpedia.vantezzen.io/) ([Source](https://github.com/vantezzen/minimalpedia)): A minimalistic frontend for Wikipedia using React
-- [Cauldron.js](https://github.com/vantezzen/cauldron-js): Run a Minecraft Server in your browser
-
 ### 🌍 Find me on the web:
 - You can find my full portfolio on <https://vantezzen.io/>
 - You can find me on [Twitter](https://twitter.com/vantezzen)
